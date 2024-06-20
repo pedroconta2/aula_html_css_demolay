@@ -1,0 +1,12 @@
+*{
+    padding:0;
+    margin:0;
+    border:0;
+    box-sizing: 0;
+    box-sizing: border-box;
+}
+
+.menu-bar__content{
+    display: flex;
+    flex-direction: row;
+}
